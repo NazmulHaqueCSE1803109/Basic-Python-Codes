@@ -1,0 +1,11 @@
+from math import *
+a=int(input("enter first number : "))
+b=int(input("enter second number : "))
+print(max(a,b))
+print(min(a,b))
+print(abs(-45454))
+print(pow(a,b))
+print(sqrt(a))
+print(round(3.6))
+print(floor(3.6))
+print(ceil(3.6))
